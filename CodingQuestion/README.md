@@ -8,9 +8,11 @@ Write an interface for a data structure that can provide the moving average of t
 ### Minimum Requirements
 
 1. Provide a separate interface (IE `interface`/`trait`) with documentation for the data structure
+
 ```MovingAveLastN``` is the separate interface for the data structure
 
 2. Provide an implementation for the interface
+
 ```MovingAverage``` is the main Java class that include test cases and main function. 
 
 3. Provide any additional explanation about the interface and implementation in a README file.
